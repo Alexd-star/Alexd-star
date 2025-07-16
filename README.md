@@ -14,9 +14,9 @@
 
 > 一个 即将毕业的大学生
 
-主力`Java`，求一份`2022届校招offer`。
+主力`Java`，求一份`2024届校招offer`。
 
-微信: `MyTel-10086`  
+微信: `ErioCheng`  
 
 QQ: `2631266845`  
 
@@ -24,7 +24,7 @@ GitHub: [Alexd-star](https://github.com/Alexd-star)
 
 Email: 2631266845@qq.com
 
-Blog: [小罗的博客](https://www.lc123.ltd/)
+Blog: [小罗的博客](https://www.lc123.ltd/)(失效-.-域名到期没续费~)
 
 ## GitHub
 ![Luo's github](https://github-readme-stats.vercel.app/api?username=Alexd-star&show_icons=true&title_color=009688&icon_color=009688&text_color=333333&bg_color=ffffff)
